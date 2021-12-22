@@ -14,7 +14,7 @@ int main()
 	long double x7;\
 	unsigned short int x8;\
 	long unsigned x9;\
-	~~ong float x10;~~\
+	~~long float x10;~~\
 }
  
 
